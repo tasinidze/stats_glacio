@@ -6,4 +6,3 @@ pandas
 matplotlib
 pyproj
 geopandas
-sklearn
